@@ -1,13 +1,20 @@
 # Hi, my name is Mélanie.
 
-I am doing my PhD in Political science at Université Panthéon-Sorbonne in Paris, France. I am affiliated with the Centre européen de science politique et sociologie (CESSP).
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+  <img src="photo.jpg" alt="My photo" width="200">
+  <div>
+    <p>🇫🇷 I am doing my PhD in Political Science at Université Panthéon-Sorbonne in Paris.</p>
+    <p>🇺🇸 I am a visiting researcher in the Department of Sociology at UC Berkeley.</p>
 
-## Interests
+    ## Interests
+    I'm interested in the emergence and institutionalization of digital cultures in government. How is the State going digital? Who is driving the transition?
 
-I'm interested in the emergence and institutionalization of digital cultures in government and policy-making spaces in France, by way of the United States of America. What do we mean when we aim to modernize and digitize public services ?
+    ## Let's chat
+    📧 melanie.ullmo@univ-paris1.fr
 
-## Contact me
+    ## Let's meet up
+    — May 7–8, 2026 : Code for America Summit 2026 (Chicago, IL)
 
-:email: I can be reached at melanie.ullmo@univ-paris1.fr.
-:bear: I am currently visiting in the Department of Sociology at the University of California, Berkeley. 
-
+    — June 30–July 4, 2026 : Congrès de l'Association Française de Science Politique (Lyon, Fr)
+  </div>
+</div>
