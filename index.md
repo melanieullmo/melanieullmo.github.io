@@ -10,7 +10,7 @@
     <p>I'm interested in the emergence and institutionalization of digital cultures in government. How is the State going digital? Who is driving the transition?</p>
 
     <h2>Let's chat</h2>
-    <p>📧 melanie.ullmo@univ-paris1.fr</p>
+    <p>📧 <a href="mailto:melanie.ullmo@univ-paris1.fr">melanie.ullmo@univ-paris1.fr</a></p>
 
     <h2>Let's meet up</h2>
     <p>— May 7–8, 2026 : Code for America Summit 2026 (Chicago, IL)</p>
